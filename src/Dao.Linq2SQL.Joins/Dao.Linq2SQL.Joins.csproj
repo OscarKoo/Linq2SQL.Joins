@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>NETSTANDARD2.0;NET45;NETCOREAPP2.0;net6.0;net7.0</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Dao.Linq2SQL.Joins</PackageId>
+    <Version>1.0.0.0</Version>
+    <Authors>Oscar Koo</Authors>
+    <Description>a linq 2 SQL joins library</Description>
+    <PackageLicenseUrl>https://github.com/OscarKoo/Linq2SQL.Joins/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/OscarKoo/Linq2SQL.Joins</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/OscarKoo/Linq2SQL.Joins/master/favicon.ico</PackageIconUrl>
+    <PackageReleaseNotes>Visit the project's url to see the Release Notes</PackageReleaseNotes>
+    <Copyright>Copyright 2023 Oscar Koo</Copyright>
+    <PackageTags>linq to SQL joins library</PackageTags>
+    <RepositoryUrl>https://www.nuget.org/packages/Dao.Linq2SQL.Joins</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
